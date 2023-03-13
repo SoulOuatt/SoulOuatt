@@ -1,0 +1,23 @@
+.main-app{
+  text-align: center;
+  margin: 100px;
+}
+
+
+.cta-btn{
+  padding: 12px;
+  border: none;
+  border-radius: 12px;
+  min-width: 250px;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.connect-wallet-btn{
+  background: blue;
+}
+
+.mint-btn{
+  background: orangered;
+}
